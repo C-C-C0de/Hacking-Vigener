@@ -18,11 +18,13 @@
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=60&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%8F%97%EF%B8%8F+%D0%A6%D0%95%D0%9B%D0%AC+%D0%9F%D0%A0%D0%9E%D0%95%D0%A2%D0%90+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=3B9600&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%8F%97%EF%B8%8F+%D0%A6%D0%95%D0%9B%D0%AC+%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%D0%90+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 </div>
-
-____
+ 
+ ____
 
 &emsp;&emsp;Объяснить и реализовать полный алгоритм взлома шифра Виженера, предоставив пользователю:
 
