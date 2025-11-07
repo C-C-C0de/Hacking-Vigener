@@ -189,7 +189,6 @@ class TextTypePerceptron {
 };
 ```
 
-
 > P.s. На этом все!!! Остальное мне лень рассписывать. Дальше сами...
 
 <div align="center">
@@ -208,8 +207,9 @@ class TextTypePerceptron {
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=90&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&width=1000&height=110&lines=%D0%9A%D0%9E%D0%94+%D0%A1%2B%2B" alt="Typing SVG" /></a>
 
-</div>
+![Views](https://visitor-badge.laobi.icu/badge?page_id=C-C-C0de.Vigener-encryption)
 
+</div>
 
 ```Cpp
 #include <iostream>
